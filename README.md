@@ -1,5 +1,5 @@
 # Student-Management-System
-Chương trình quản lý danh sách sinh viên
+Chương trình quản lý danh sách sinh viên NQH
 # Các chức năng: 
 - Nhập vào một danh sách sinh viên (nhập tay)
 - In ra danh sách sinh viên
